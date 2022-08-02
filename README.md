@@ -13,4 +13,10 @@ Problem Definition:
 
 * For analysing and comparing the performance, the evaluation metrices Accuracy, Precision, Recall and F1 were used. 
 
+* Hyperparameter tuning was also done using GridSearch.
+
 * A performance analysis was also made using AUC-ROC curve.
+
+Results:
+
+* The classifier Decision Tree gave the best performance with 72.45%.
