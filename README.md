@@ -1,4 +1,5 @@
 # ML-Classifiers
+
 Performance analysis of various machine learning classifiers in predicting Cardio Vascular disease 
 
 The data.csv file given is downloaded from https://www.kaggle.com/raminhashimzade/cardio-disease
@@ -6,6 +7,8 @@ The data.csv file given is downloaded from https://www.kaggle.com/raminhashimzad
 Problem Definition:
 
 * This work aims to analyze and compare performance of various machine learning classification algorithms viz. Decision Tree, Random Forest, Naive Bayes, Stochastic Gradient Descent, Logistic Regression and K Nearest Neighbours for predicting cardio disease. 
+
+* Libraries used: pandas, numpy, sklearn, matplotlib, seaborn
 
 * First the relevant features are collected using the feature selection method, Sequential Floating Backward Selection and then these are given as inputs to the machine learning algorithms. 
 
